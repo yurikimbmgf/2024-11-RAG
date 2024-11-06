@@ -1,5 +1,3 @@
-!pip install langchain_community
-
 ## Streamlit App
 import streamlit as st
 import os
