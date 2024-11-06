@@ -1,0 +1,8 @@
+streamlet
+os
+uuid
+langchain_community
+langchain
+langchain_openai
+langchain_core
+rag_citation
