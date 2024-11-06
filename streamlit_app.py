@@ -16,7 +16,6 @@ from rag_citation import CiteItem, Inference
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # api
-load_dotenv()
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 # Initialize Streamlit app
