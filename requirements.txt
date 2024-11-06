@@ -1,5 +1,4 @@
-os
-uuid
+streamlit
 langchain_community
 langchain
 langchain_openai
