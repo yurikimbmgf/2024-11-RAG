@@ -1,4 +1,4 @@
-streamlet
+streamlit
 os
 uuid
 langchain_community
