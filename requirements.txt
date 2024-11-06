@@ -6,3 +6,4 @@ langchain_core
 rag_citation
 pypdf
 chromadb
+sqlite3 

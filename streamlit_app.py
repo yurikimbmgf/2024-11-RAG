@@ -12,7 +12,7 @@ from langchain import hub
 from rag_citation import CiteItem, Inference
 
 # Set working directory
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+# os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # api
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
