@@ -4,8 +4,4 @@ langchain
 langchain_openai
 langchain_core
 rag_citation
-langchain_community.document_loaders
-langchain.text_splitter
-langchain_community.vectorstores
-langchain_community.chat_models
-langchain_core.output_parsers
+pypdf
