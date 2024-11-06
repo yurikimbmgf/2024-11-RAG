@@ -15,9 +15,9 @@ from rag_citation import CiteItem, Inference
 # Set working directory
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-# Load environment variables
+# api
 load_dotenv()
-os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 # Initialize Streamlit app
 st.title("RAG Test")
