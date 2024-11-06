@@ -21,6 +21,10 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 # api
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
+# Fixing chromadb maybe
+# https://resources.cdo.mit.edu/companies/bill-melinda-gates-foundation-3/jobs/41091063-senior-manager-strategy-implementation-management
+chromadb.api.client.SharedSystemClient.clear_system_cache()
+
 # Initialize Streamlit app
 st.title("RAG Test")
 
