@@ -31,7 +31,6 @@ db = Chroma.from_documents(documents,OpenAIEmbeddings())
 query = "give me a paragraph summary of the JFF announcement"
 
 
-
 retriever = db.as_retriever(
             search_type="similarity", search_kwargs={"k": 1}
         )
@@ -80,5 +79,33 @@ cite_item = CiteItem(answer=answer, context=context)
 
 output=inference(cite_item)
 print(output.citation)
-output.missing_word
-output.hallucination
+print(output.missing_word)
+print(output.hallucination)
+
+
+
+## Another test of just the query
+query = "how many workers in the us earn less than 17 an hour"
+
+relevant_docs = retriever.invoke(query)
+
+content=[doc.page_content for doc in relevant_docs]
+context = "\n\n".join(content)
+answer=writer.invoke({"question":query,"context":context})
+
+context = []
+for document in content:
+    context.append(
+        {
+            "source_id": generate_uuid(),
+            "document": document,
+            "meta": [],
+        }
+    )
+
+cite_item = CiteItem(answer=answer, context=context)
+
+output=inference(cite_item)
+print(output.citation)
+print(output.missing_word)
+print(output.hallucination)
