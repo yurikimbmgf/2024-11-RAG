@@ -1,3 +1,7 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 ## Streamlit App
 import streamlit as st
 import os
@@ -12,7 +16,7 @@ from langchain import hub
 from rag_citation import CiteItem, Inference
 
 # Set working directory
-# os.chdir(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # api
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
