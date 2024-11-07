@@ -1,3 +1,5 @@
+# This works but can't run it from a work machin because of permissions with selenium.
+
 import os
 import pandas as pd
 from selenium import webdriver
