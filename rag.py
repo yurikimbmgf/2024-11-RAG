@@ -1,6 +1,6 @@
 ## Set the working directory to the directory where the script is located
-# import os
-# os.chdir(os.path.dirname(os.path.abspath(__file__)))
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
 ## API

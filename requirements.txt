@@ -6,4 +6,3 @@ langchain_core
 rag_citation
 pypdf
 chromadb
-pysqlite3-binary

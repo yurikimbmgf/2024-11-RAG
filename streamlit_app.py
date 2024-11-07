@@ -1,6 +1,3 @@
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 ## Streamlit App
 import streamlit as st
@@ -18,23 +15,31 @@ from rag_citation import CiteItem, Inference
 # Set working directory
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-# api
-os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+## API
+from dotenv import load_dotenv
+load_dotenv()
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 # Fixing chromadb maybe
 # https://resources.cdo.mit.edu/companies/bill-melinda-gates-foundation-3/jobs/41091063-senior-manager-strategy-implementation-management
-chromadb.api.client.SharedSystemClient.clear_system_cache()
 
 # Initialize Streamlit app
 st.title("RAG Test")
 
-# Load data
-loader = PyPDFLoader("data/2024-11-jff.pdf")
-emo_docs = loader.load_and_split()
+# Load data from all PDFs in the 'data' folder
+all_documents = []
+data_folder = "data"
+
+for filename in os.listdir(data_folder):
+    if filename.endswith(".pdf"):
+        file_path = os.path.join(data_folder, filename)
+        loader = PyPDFLoader(file_path)
+        documents = loader.load_and_split()
+        all_documents.extend(documents)
 
 # Split documents
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-documents = text_splitter.split_documents(emo_docs)
+documents = text_splitter.split_documents(all_documents)
 
 # Initialize vector store
 db = Chroma.from_documents(documents, OpenAIEmbeddings())
