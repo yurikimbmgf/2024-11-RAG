@@ -1,0 +1,4 @@
+Date,Article,Summary,Source,Tag,link,Content
+2024-09-10,"Full-time jobs are vanishing and forcing more people into part-time work
+","This article highlights that ""the number of people working full time in the U.S. has shrunk by a whopping 1.5 million since hitting a record 134.8 million some 14 months ago, according to the government’s regular survey of households. At the same time, the number of people working part time has increased by an even larger 2 million during the same span stretching back to June 2023. What’s going on? The economy has slowed, fewer companies are hiring and businesses have less of a need for labor. Workers are now losing what was the most leverage they’d had in decades.""
+",MarketWatch,Labor Market,https://www.msn.com/en-us/money/markets/full-time-jobs-are-vanishing-and-forcing-more-people-into-part-time-work/ar-AA1qh40P,"MSN | Outlook, Office, Skype, Bing, Breaking News, and Latest Videos"

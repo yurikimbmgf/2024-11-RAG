@@ -1,0 +1,4 @@
+Date,Article,Summary,Source,Tag,link,Content
+2024-08-15,"Low US weekly jobless claims, upbeat retail sales dispel recession fears
+","""The number of Americans filing new applications for unemployment benefits dropped to a one month-low last week, suggesting an orderly labor market slowdown remained in place, and dashing financial market hopes that the Federal Reserve could cut interest rates by 50 basis points next month...Initial claims for state unemployment benefits dropped 7,000 to a seasonally adjusted 227,000 for the week ended Aug. 10, the Labor Department said.""
+",Reuters,Labor Market,https://www.reuters.com/markets/us/us-weekly-jobless-claims-unexpectedly-fall-2024-08-15/,reuters.com

@@ -1,0 +1,504 @@
+Date,Article,Summary,Source,Tag,link,Content
+2024-10-02,"A sign of strength in the labor market: Job openings increased in August
+","""The number of available jobs in the US grew in August, signaling an undercurrent of strength in the labor market at a time when its vitals are being carefully monitored by the Federal Reserve. There were an estimated 8.04 million job openings in August, an increase from an upwardly revised 7.71 million in July, according to new data released Wednesday by the Bureau of Labor Statistics. The latest tally equates to 1.1 available jobs for every person looking for one, BLS data shows.""
+",CNN,Labor Market,https://www.cnn.com/2024/10/01/economy/us-jolts-job-openings-layoffs-august/index.html,"A sign of strength in the labor market: Job openings increased in August | CNN Business
+CNN values your feedback
+1. How relevant is this ad to you?
+2. Did you encounter any technical issues?
+No
+Video player was slow to load content
+Video content never loaded
+Ad froze or did not finish loading
+Video content did not start after ad
+Audio on ad was too loud
+Other issues
+Ad never loaded
+Ad prevented/slowed the page from loading
+Content moved around while ad loaded
+Ad was repetitive to ads I've seen previously
+Other issues
+Cancel
+Submit
+Thank You!
+Your effort and contribution in providing this feedback is much
+                                        appreciated.
+Close
+Ad Feedback
+Close icon
+Business
+Markets
+Tech
+Media
+Calculators
+Videos
+More
+Markets
+Tech
+Media
+Calculators
+Videos
+Watch
+Listen
+Live TV
+Subscribe
+Sign in
+My Account
+Settings
+Topics You Follow
+Sign Out
+Your CNN account
+Sign in to your CNN account
+Sign in
+My Account
+Settings
+Topics You Follow
+Sign Out
+Your CNN account
+Sign in to your CNN account
+Live TV
+Listen
+Watch
+Edition
+US
+International
+Arabic
+Español
+Edition
+US
+International
+Arabic
+Español
+Markets
+Tech
+Media
+Calculators
+Videos
+Follow CNN Business
+2024 Elections
+US
+Crime + Justice
+World
+Africa
+Americas
+Asia
+Australia
+China
+Europe
+India
+Middle East
+United Kingdom
+Politics
+SCOTUS
+Congress
+Facts First
+2024 Elections
+Business
+Tech
+Media
+Calculators
+Videos
+Markets
+Pre-markets
+After-Hours
+Fear & Greed
+Investing
+Markets Now
+Nightcap
+Health
+Life, But Better
+Fitness
+Food
+Sleep
+Mindfulness
+Relationships
+Entertainment
+Movies
+Television
+Celebrity
+Tech
+Innovate
+Foreseeable Future
+Mission: Ahead
+Work Transformed
+Innovative Cities
+Style
+Arts
+Design
+Fashion
+Architecture
+Luxury
+Beauty
+Video
+Travel
+Destinations
+Food & Drink
+Stay
+Videos
+Sports
+Pro Football
+College Football
+Basketball
+Baseball
+Soccer
+Olympics
+Hockey
+Watch
+Live TV
+CNN Headlines
+CNN Shorts
+Shows A-Z
+CNN10
+CNN Max
+CNN TV Schedules
+FlashDocs
+Listen
+CNN 5 Things
+Chasing Life with Dr. Sanjay Gupta
+The Assignment with Audie Cornish
+One Thing
+Tug of War
+CNN Political Briefing
+The Axe Files
+All There Is with Anderson Cooper
+All CNN Audio podcasts
+CNN Underscored
+Electronics
+Fashion
+Beauty
+Health & Fitness
+Home
+Reviews
+Deals
+Money
+Gifts
+Travel
+Outdoors
+Pets
+CNN Store
+Science
+Space
+Life
+Unearthed
+Climate
+Solutions
+Weather
+Weather
+Video
+Climate
+Ukraine-Russia War
+Israel-Hamas War
+About CNN
+Subscribe
+Photos
+Investigations
+CNN Profiles
+CNN Leadership
+CNN Newsletters
+Work for CNN
+Markets
+DOW
+43,729.34
+-0.59
+-0.00%
+S&P 500
+5,973.10
++44.06
+0.74%
+NASDAQ
+19,269.46
++285.99
+1.51%
+Hot Stocks
+NVDA
+NVIDIA Corporation
+148.88
++ 3.27
+2.25%
+PLTR
+Palantir Technologies Inc. Class A
+55.88
++ 0.35
+0.63%
+TSLA
+Tesla, Inc.
+296.91
++ 8.38
+2.90%
+Fear & Greed Index
+60
+greed
+is driving the US market
+Latest Market News
+Books like ‘The Handmaid’s Tale’ and ‘1984’ are flying off the shelves after the presidential election
+Elwood Edwards, voice of AOL’s iconic greeting ‘You’ve Got Mail,’ dies at 74
+Key takeaways from the Fed’s rate cut after the election
+Hot Stocks
+60
+greed
+is driving the US market
+Something isn't loading properly. Please check back later.
+Ad Feedback
+Business
+/
+Economy
+A sign of strength in the labor market: Job openings increased in August
+By
+Alicia Wallace
+, CNN
+3 minute read
+Updated
+        12:05 PM EDT, Tue October 1, 2024
+Link Copied!
+12 comments
+Follow:
+Job market
+See your latest updates
+The health of the job market has become the top concern for the Federal Reserve, which cut its benchmark interest rate last month for the first time in four years.
+Anna Rose Layden/Getty Images
+CNN
+—
+The number of available jobs in the US grew in August, signaling an undercurrent of strength in the labor market at a time when its vitals are being carefully monitored by the Federal Reserve.
+There were an estimated 8.04 million job openings in August, an increase from an upwardly revised 7.71 million in July, according to new data released Wednesday by the Bureau of Labor Statistics.
+The latest tally equates to 1.1 available jobs for every person looking for one, BLS data shows.
+Ad Feedback
+Ad Feedback
+Economists were expecting the number of available jobs to land at 7.682 million,
+a slight increase from July’s initial total
+, according to FactSet consensus estimates.
+The latest Job Openings and Labor Turnover Survey report kicks off a week chock-full of critical economic data for the US labor market, culminating with the Friday jobs report. The health of the job market has leap-frogged inflation to become the top concern for the Fed, which
+cut its benchmark interest rate
+last month for the first time in four years.
+The latest JOLTS report — which also tracks hiring, quitting, layoff and other turnover activity — provides an indication that there is some underlying stability in the labor market despite
+slowing job growth overall
+.
+The industries seeing the biggest jump in openings were construction; transportation, warehousing and utilities; and state and local government (excluding education). Alternatively, available jobs shrank across many service sectors, including finance, and arts and entertainment.
+“The increase in job openings is encouraging, but we’ve got to string together a few months of improving job openings,” Ryan Sweet, chief US economist at Oxford Economics, told CNN in an interview. “The key for the labor market boils down to the hires rate and the layoffs rate.”
+Kamala Harria and Donald Trump.
+Getty Images
+Related article
+Here’s what could happen to inflation, jobs and the deficit if Trump or Harris win
+The number of layoffs dropped in August, showing that worrisome job-cutting activity doesn’t appear to be escalating. However, hiring activity continued to languish.
+“The layoffs rate is still very low, but that can turn on a dime, and I think that’s what’s worrying the Fed,” Sweet said. “I’d probably describe the labor market as ‘so-so.’ It’s just not creating enough jobs to keep up with the growth in the labor force.”
+Hiring has slowed for several reasons, including a compression of corporate profit margins, uncertainty around the elections, as well as over-hiring in industries such as health care and leisure and hospitality, Sweet said.
+What do you think?
+Join 12 others in the comments
+View Comments
+Also,
+monetary policy acts with a lag
+, and it may take some time for the lower interest rates to start working their way through the economy.
+Tuesday’s JOLTS report also showed that workers appear to be taking a wait-and-see approach as well.
+As the labor market slows and opportunities wane, more workers are staying put: The number of people voluntarily quitting their jobs fell to 3.084 million, the lowest level since September 2020.
+Outside of the pandemic, the 1.9% quits rate, which measures voluntary separations as a percentage of total employment, is the lowest seen since 2015.
+“We’re still months away from a potential robust jobs market, and workers understand this and continue to quit their jobs at a slower pace,” Robert Frick, corporate economist at Navy Federal Credit Union, wrote in commentary issued Tuesday.
+12 comments
+Related
+More from CNN
+America’s economy just achieved the rare feat of a soft landing
+Oct 30, 2024
+Key takeaways from the Fed’s rate cut after the election
+Nov 7, 2024
+Stocks move higher as Americans head to the polls on Election Day
+Nov 5, 2024
+Ad Feedback
+CNN Business Videos
+Clipped From Video
+Video
+Mnuchin on whether he would serve in a second Trump admin
+5:56
+Nov 7, 2024
+CNN
+Video
+‘Complete chaos’: CNN reporter breaks down Germany’s political crisis
+3:30
+Nov 7, 2024
+CNN
+Video
+How Trump’s second term could impact future interest rates
+2:11
+Nov 7, 2024
+Getty Images
+Video
+Trump’s win made Elon Musk $15 billion richer
+1:10
+Nov 6, 2024
+Ad Feedback
+Ad Feedback
+Sign in
+My Account
+Settings
+Topics You Follow
+Sign Out
+Your CNN account
+Sign in to your CNN account
+Live TV
+Listen
+Watch
+2024 Elections
+US
+Crime + Justice
+World
+Africa
+Americas
+Asia
+Australia
+China
+Europe
+India
+Middle East
+United Kingdom
+Politics
+SCOTUS
+Congress
+Facts First
+2024 Elections
+Business
+Tech
+Media
+Calculators
+Videos
+Markets
+Pre-markets
+After-Hours
+Fear & Greed
+Investing
+Markets Now
+Nightcap
+Health
+Life, But Better
+Fitness
+Food
+Sleep
+Mindfulness
+Relationships
+Entertainment
+Movies
+Television
+Celebrity
+Tech
+Innovate
+Foreseeable Future
+Mission: Ahead
+Work Transformed
+Innovative Cities
+Style
+Arts
+Design
+Fashion
+Architecture
+Luxury
+Beauty
+Video
+Travel
+Destinations
+Food & Drink
+Stay
+News
+Videos
+Sports
+Pro Football
+College Football
+Basketball
+Baseball
+Soccer
+Olympics
+Hockey
+Watch
+Live TV
+CNN Headlines
+CNN Shorts
+Shows A-Z
+CNN10
+CNN Max
+CNN TV Schedules
+FlashDocs
+Listen
+CNN 5 Things
+Chasing Life with Dr. Sanjay Gupta
+The Assignment with Audie Cornish
+One Thing
+Tug of War
+CNN Political Briefing
+The Axe Files
+All There Is with Anderson Cooper
+All CNN Audio podcasts
+CNN Underscored
+Electronics
+Fashion
+Beauty
+Health & Fitness
+Home
+Reviews
+Deals
+Money
+Gifts
+Travel
+Outdoors
+Pets
+CNN Store
+Science
+Space
+Life
+Unearthed
+Climate
+Solutions
+Weather
+Weather
+Video
+Climate
+Ukraine-Russia War
+Israel-Hamas War
+About CNN
+Subscribe
+Photos
+Investigations
+CNN Profiles
+CNN Leadership
+CNN Newsletters
+Work for CNN
+Business
+Watch
+Listen
+Live TV
+Follow CNN Business
+Sign in
+My Account
+Settings
+Topics You Follow
+Sign Out
+Your CNN account
+Sign in to your CNN account
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+Terms of Use
+Privacy Policy
+Cookie Settings
+Ad Choices
+Accessibility & CC
+About
+Subscribe
+Newsletters
+Transcripts
+Help Center
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+CNN Sans ™ & © 2016 Cable News Network.
+Privacy Policy
+For privacy options, please see our privacy policy:
+https://www.cnn.com/privacy
+.
+Back Button
+Cookie List
+Search Icon
+Filter Icon
+Clear
+checkbox label
+label
+Apply
+Cancel
+Consent
+Leg.Interest
+checkbox label
+label
+checkbox label
+label
+checkbox label
+label
+Close"

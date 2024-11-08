@@ -1,0 +1,4 @@
+Date,Article,Summary,Source,Tag,link,Content
+2024-09-06,"Employers Added 142,000 Jobs, Missing Expectations, Though Unemployment Ticked Down
+","The U.S. economy added 142,000 jobs in August and the unemployment rate fell slightly to 4.2%. 
+",WSJ,Labor Market,https://www.wsj.com/economy/jobs/jobs-report-august-unemployment-economy-b869cf39,wsj.com
