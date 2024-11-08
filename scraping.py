@@ -10,11 +10,11 @@ from bs4 import BeautifulSoup
 import time
 
 # Load the Excel file
-excel_file_path = 'test_scrape_list.xlsx'
+excel_file_path = 'test_scrape_labor.xlsx'
 df = pd.read_excel(excel_file_path)
 
 # Directory to save individual CSV files for each scraped URL
-output_dir = "data"
+output_dir = "data/labor"
 os.makedirs(output_dir, exist_ok=True)
 
 # Configure Selenium WebDriver
